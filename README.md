@@ -14,7 +14,6 @@ This project implements a **Customer Segmentation** system using the **Online Re
 
 ## 📸 Dashboard Preview
 
-*(Add a screenshot of your running app here named 'dashboard_preview.png' for maximum impact)*
 ![Dashboard Preview](dashboard_preview.png)
 
 ---
